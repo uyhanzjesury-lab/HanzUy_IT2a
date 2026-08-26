@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UY_ActivityFolder/UY_ActivityFolder.iml" filepath="$PROJECT_DIR$/UY_ActivityFolder/UY_ActivityFolder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Uy_activity.iml" filepath="$PROJECT_DIR$/.idea/Uy_activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UY_IT2A.iml" filepath="$PROJECT_DIR$/UY_IT2A.iml" />
     </modules>
   </component>
 </project>
