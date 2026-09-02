@@ -11,7 +11,7 @@ public class Activity2 {
         double fee = 0;
 
         System.out.println("========================================");
-        System.out.println("       🎬 CINEMA TICKET SYSTEM 🎬");
+        System.out.println("       CINEMA TICKET SYSTEM ");
         System.out.println("========================================");
 
         System.out.println();
@@ -39,7 +39,7 @@ public class Activity2 {
             fmt = "IMAX";
             price = 450.00;
         } else {
-            System.out.println("\nInvalid format!");
+            System.out.println("Invalid format!");
             return;
         }
 
@@ -51,7 +51,7 @@ public class Activity2 {
 
         System.out.println();
         System.out.println("+--------------------------------------+");
-        System.out.println("|            🎟 TICKET RECEIPT         |");
+        System.out.println("|               TICKET RECEIPT         |");
         System.out.println("+--------------------------------------+");
         System.out.println("|                                      |");
         System.out.printf ("|  Format       : %-20s  |%n", fmt);
@@ -66,6 +66,6 @@ public class Activity2 {
 
 
         System.out.println();
-        System.out.println("        Enjoy your movie! 🍿");
+        System.out.println("        Enjoy your movie! ");
     }
 }
