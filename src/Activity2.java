@@ -30,7 +30,7 @@ public class Activity2 {
 
 
         if (f == 1) {
-            fmt = "REGULAR";
+            fmt = "REGULARs";
             price = 350.00;
         } else if (f == 2) {
             fmt = "3D";
