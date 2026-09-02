@@ -19,6 +19,8 @@ public static void main(String[] args){
         act1.greettheUser();
     }
     else if(select == 2){
+        Activity2 act2 = new Activity2();
+        act2.cinemaTicketing();
 
     }
     else{
